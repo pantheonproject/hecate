@@ -29,11 +29,13 @@ Language=English
 Network Events
 .
 
+
 MessageId=0x2
 SymbolicName=DATABASE_CATEGORY
 Language=English
 Database Events
 .
+
 
 MessageId=0x3
 SymbolicName=UI_CATEGORY
@@ -63,6 +65,7 @@ Language=English
 File %1 contains content that is not valid.
 .
 
+
 MessageId=0x102
 Severity=Warning
 Facility=System
@@ -71,6 +74,7 @@ Language=English
 There have been %1 retries with %2 success! Disconnect from
 the server and try again later.
 .
+
 
 MessageId=0x103
 Severity=Informational
@@ -91,6 +95,7 @@ SymbolicName=QUARTS_UNITS
 Language=English
 quarts%0
 .
+
 
 MessageId=0x1001
 Severity=Success
